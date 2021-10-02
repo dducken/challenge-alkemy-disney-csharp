@@ -8,7 +8,7 @@
 * #### **`Mensaje de bienvenida al registrarse utilizando SendGrid`** 
 
 ### 🔥 Especificaciones técnicas:
-* #### **`.Net Core`** | **`Entity Framework`** | **`APIRest`** | **`Enfoque CodeFirst`** | **`Data Annotations`** | 
+* #### **`.Net Core`** | **`Entity Framework Core`** | **`APIRest`** | **`Enfoque CodeFirst`** | **`Data Annotations`** | 
 * #### **`Swagger`** | **`SendGrid API`** | **`Visual Studio Code`** | **`PostgreSQL`** |
 
 
