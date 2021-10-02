@@ -1,6 +1,8 @@
-##Challenge de Alkemy sobre personajes de Disney.
+### 💻 Challenge de Alkemy sobre personajes de Disney.
 
 ## Funciones principales:
-### CRUD de personajes
-### CRUD de peliculas
-### Autenticacion de usuarios con Json Web Token (JWT)
+* #### **`CRUD de personajes y peliculas`** 
+* #### **`Listado y busqueda de personajes por nombre,edad y genero`** 
+* #### **`Listado y busqueda de peliculas por titulo y genero`** 
+* #### **`Autenticacion de usuarios con Json Web Token (JWT)`** 
+* #### **`Mensaje de bienvenida al registrarse utilizando SendGrid`** 
