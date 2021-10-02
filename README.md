@@ -34,7 +34,7 @@
 * #### **`Validamos el inicio de sesión con el token`** 
    ![image](https://user-images.githubusercontent.com/64493715/135699966-1c1a874f-dc7e-4eb3-9a1b-e0c12378876b.png)
 
-* #### **`Ya podemos utilizar las demas funciones como el listado de personajes`** 
+* #### **`Ya podemos utilizar las demás funciones. Por ejemplo: el listado de personajes`** 
 
 ![image](https://user-images.githubusercontent.com/64493715/135699984-95ce6b99-1d49-4a18-a31a-38889dd134fb.png)
 
